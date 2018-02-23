@@ -1,6 +1,12 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlitvakb/contentful_walkthrough_notebook/master?filepath=Contentful%20Walkthrough.ipynb)
+
 # Contentful Walkthrough
 
 This repository hosts a very simple walkthrough of some of the things you can do with Contentful in Python.
+
+### Launching the hosted version
+
+To check out a hosted version, click [here](https://mybinder.org/v2/gh/dlitvakb/contentful_walkthrough_notebook/master?filepath=Contentful%20Walkthrough.ipynb)
 
 ### Installation
 
@@ -8,7 +14,7 @@ This repository hosts a very simple walkthrough of some of the things you can do
 pip install -r requirements.txt
 ```
 
-### Running
+### Running Locally
 
 ```bash
 jupyter notebook

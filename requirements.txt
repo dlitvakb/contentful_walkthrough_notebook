@@ -3,7 +3,7 @@ bleach==2.1.2
 certifi==2018.1.18
 chardet==3.0.4
 CommonMark==0.7.4
-contentful==1.5.0
+contentful==1.12.4
 cycler==0.10.0
 decorator==4.2.1
 entrypoints==0.2.3
